@@ -43,3 +43,10 @@ linux系统    执行  start.sh
 
 
 ![](http://blog.maomingxqw.cn/images/text/pachongd.png)
+## 爬数据项目： https://github.com/liangyes/scrapym
+
+## 后台api项目：https://github.com/liangyes/scrapym_api
+
+## 前端项目：https://github.com/liangyes/move
+
+## 在线地址：http://move.maomingxqw.cn
