@@ -6,12 +6,12 @@
 
 ## 整合了两个网站
 
-https://www.juji.tv  （韩剧，韩国电影，韩国综艺，日剧，日本电影，泰剧，泰国电影）
-https://www.meijutt.com	（美剧，欧美电影）
+- https://www.juji.tv  （韩剧，韩国电影，韩国综艺，日剧，日本电影，泰剧，泰国电影）
+- https://www.meijutt.com	（美剧，欧美电影）
 
 
 
-####实现了如下功能
+实现了如下功能
 - 爬m3u8格式资源
 - 发送邮件
 - IP代理
@@ -19,14 +19,14 @@ https://www.meijutt.com	（美剧，欧美电影）
 
 
 
-程序基于python3.7，scrapy-1.7.4
+## 程序基于python3.7，scrapy-1.7.4
 
 
-环境搭好直接
+** 环境搭好直接执行  /自动执行/目录下的文件**
 
-直接执行  /自动执行/目录下的文件
-windows系统  执行  start.bat
-linux系统    执行  start.sh
+
+- windows系统  执行  start.bat
+- linux系统    执行  start.sh
 
 #### 程序基于python3.7，scrapy-1.7.4
 
